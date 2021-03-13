@@ -9,7 +9,7 @@ WEB app takes email input which is validated with JavaScript and PhP. On success
 
 Getting Started
 
-WEB app is deployed on Heroku(link provided)
+WEB app is deployed on Heroku(https://magebit-dev-test.herokuapp.com/)
 
 *Index.php has both Javascript and PhP functionality to validate email, however as per requrement Javascript schould disable submit button and show success message on completed validation. 
 *To test only PHP functionality, please go to /index_php.php, where JavaScript is disabled.
