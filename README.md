@@ -16,6 +16,7 @@ WEB app is deployed on Heroku(https://magebit-dev-test.herokuapp.com/)
 *To see MySQL data, go to /subscriptions.php. On top there are filter buttons by email and search is on the bottom.
 
 Dependencies
+
 WEB app developed on Windows 10
 
 Author 
